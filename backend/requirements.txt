@@ -1,0 +1,6 @@
+openai
+python-dotenv
+# ipykernel     comment out kaar lena when doint it in your own system.
+assemblyai
+jiwer
+nltk
